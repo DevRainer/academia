@@ -5,7 +5,7 @@ This project is a high-quality landing page template originally provided by the 
 ---
 
 ## 📺 Live Demo
-👉 [View the Landing Page Live](https://DevRainer.github.io/Elite-Fitness-Landing-Page)
+👉 [View the Landing Page Live](https://devrainer.github.io/academia/)
 
 ---
 
