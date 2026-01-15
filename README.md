@@ -33,3 +33,7 @@ This project is a high-quality landing page template originally provided by the 
 
 ## 📄 License & Terms
 This project was developed for educational purposes as part of the DevClub curriculum.
+
+## Preview 
+
+![Screenshot do site](./assets/academia.png)
